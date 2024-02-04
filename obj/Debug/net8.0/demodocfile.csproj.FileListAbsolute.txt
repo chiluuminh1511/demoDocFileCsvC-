@@ -1,0 +1,14 @@
+/home/chi/Desktop/Workspaces/demodocfile/bin/Debug/net8.0/demodocfile
+/home/chi/Desktop/Workspaces/demodocfile/bin/Debug/net8.0/demodocfile.deps.json
+/home/chi/Desktop/Workspaces/demodocfile/bin/Debug/net8.0/demodocfile.runtimeconfig.json
+/home/chi/Desktop/Workspaces/demodocfile/bin/Debug/net8.0/demodocfile.dll
+/home/chi/Desktop/Workspaces/demodocfile/bin/Debug/net8.0/demodocfile.pdb
+/home/chi/Desktop/Workspaces/demodocfile/obj/Debug/net8.0/demodocfile.GeneratedMSBuildEditorConfig.editorconfig
+/home/chi/Desktop/Workspaces/demodocfile/obj/Debug/net8.0/demodocfile.AssemblyInfoInputs.cache
+/home/chi/Desktop/Workspaces/demodocfile/obj/Debug/net8.0/demodocfile.AssemblyInfo.cs
+/home/chi/Desktop/Workspaces/demodocfile/obj/Debug/net8.0/demodocfile.csproj.CoreCompileInputs.cache
+/home/chi/Desktop/Workspaces/demodocfile/obj/Debug/net8.0/demodocfile.dll
+/home/chi/Desktop/Workspaces/demodocfile/obj/Debug/net8.0/refint/demodocfile.dll
+/home/chi/Desktop/Workspaces/demodocfile/obj/Debug/net8.0/demodocfile.pdb
+/home/chi/Desktop/Workspaces/demodocfile/obj/Debug/net8.0/demodocfile.genruntimeconfig.cache
+/home/chi/Desktop/Workspaces/demodocfile/obj/Debug/net8.0/ref/demodocfile.dll
